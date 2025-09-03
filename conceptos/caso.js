@@ -46,6 +46,3 @@ function removeBookFromLibrary(books, id){
 // console.log("Libro eliminado:", libroEliminado);
 // console.log("Biblioteca después:", biblioteca);
 
-
-// 4) Funcion prestar el libro
-function 
